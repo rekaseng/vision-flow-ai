@@ -1,0 +1,26 @@
+# --- Core CV & YOLO ---
+ultralytics
+opencv-python
+opencv-contrib-python
+numpy
+
+# --- GUI (PySide6) ---
+PySide6
+shiboken6
+
+# --- Async WebSocket server ---
+websockets
+asyncio
+
+# --- Logging & Utilities ---
+psutil
+python-dateutil
+tqdm
+
+# --- XML Export (CVAT) ---
+lxml
+
+# --- Optional: performance & image helpers ---
+Pillow
+
+
